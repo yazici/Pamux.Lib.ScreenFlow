@@ -1,0 +1,21 @@
+{
+  "name": "com.pamux.screenflow",
+  "version": "0.1.0",
+  "displayName": "Pamux ScreenFlow",
+  "description": "Pamux ScreenFlowpackage",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "dependencies": {
+    
+ },
+ "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Baris Yazici",
+    "email": "yazici.b@gmail.com",
+    "url": "https://www.github.com/yazici"
+  } 
+}
